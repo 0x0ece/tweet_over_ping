@@ -3,8 +3,7 @@ TweetOverPing
 
 [TweetOverPing](http://ping.theneeds.com/)
 (ToP) is an app to tweet sustainably with just a ping, 
-towards an eco-web. Light, simple, awesome!
-
+towards an eco-web. Minimal, light, awesome! For nerds only.
 
 Tweetting (over ping)
 =====================
